@@ -7,4 +7,4 @@ qr.add_data(link_data)
 
 qr.make(fit=True)
 img = qr.make_image()
-img.save('splaq.us.png')
+img.save('mikecase.us.png')
