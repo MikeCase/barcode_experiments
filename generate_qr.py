@@ -2,7 +2,7 @@ import qrcode
 
 qr = qrcode.QRCode()
 
-link_data = "https://ptainer.splaq.us"
+link_data = "https://mikecase.us"
 qr.add_data(link_data)
 
 qr.make(fit=True)
